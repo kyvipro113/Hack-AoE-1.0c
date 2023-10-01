@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dll_Injection_AoE.vcxproj -> D:\a_hack\AoE_Hacking\Release\Dll_Injection_AoE.exe
